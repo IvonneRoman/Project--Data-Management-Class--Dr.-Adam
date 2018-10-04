@@ -9,3 +9,6 @@ you’d use it, especially in terms of specific variables
 3.  submit as txt or pdf into Sakai’s dropbox by the beginning of the next class
 
 I have a dataset from the BJS for law enforcement academy surveys gathered in 2013.  I would like to compare attrition rates across different states and for acadmies in the state of NJ.
+I have a list of 40 agencies that have come under federal consent decree after being found to have engaged in patterns of unconstitutional policing
+I have a list of agencies that have been acredited by CALEA, which is being used as a proxy for "Fortune 500" companies for comparison.
+We will use the CALEA agencies for propensity score matching. 
